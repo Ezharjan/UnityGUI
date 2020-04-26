@@ -128,7 +128,7 @@ public void ButtonMagnify()
 
    但是这种方式有一个很大的坑——需要在该面板中修改父物体的Scale，直接在父物体上使用快捷键R后调整的Scale的中心锚点还会停留在原来子物体的中心上，导致无法实现单向拉伸的效果。
 
-<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image004.jpg)</p>
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image004.jpg)
 
  
 
@@ -176,7 +176,7 @@ public static void ResetCenterPosition()
 
 
 
-<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image006.jpg)</p>
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image006.jpg)
 
 
 
@@ -190,7 +190,7 @@ public static void ResetCenterPosition()
 
 （1）   初期正方体使用毛皮着色器、图片采用火焰着色器以及平面采用条纹着色器的效果：
 
-<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image008.jpg)</p>
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image008.jpg)
 
 <p align="center">【正视图的效果】</p>
 
@@ -232,7 +232,7 @@ public static void ResetCenterPosition()
 
  
 
-![img](/C:\Users\艾孜尔江\AppData\Local\Temp\msohtmlclip1\01\clip_image016.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image016.jpg)
 
 <p align="center">【设置单向缩短盒子并降低精灵的效果】</p>
 
@@ -240,7 +240,7 @@ public static void ResetCenterPosition()
 
 ![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image018.jpg)
 
-![img](/C:\Users\艾孜尔江\AppData\Local\Temp\msohtmlclip1\01\clip_image020.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image020.jpg)
 
 <p align="center">【设置盒子颜色改变下拉选框并改变颜色的效果】</p>
 
