@@ -122,13 +122,13 @@ public void ButtonMagnify()
 
 （7）  通过把目标对象挂靠在一个空的GameObject中，再把目标对象的一角对应在空对象的中心点，就可把锚点设置在对应的那个目标对象的角，进行拉伸的时候，就可以完成单侧拉伸；
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image002.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image002.jpg)
 
  
 
    但是这种方式有一个很大的坑——需要在该面板中修改父物体的Scale，直接在父物体上使用快捷键R后调整的Scale的中心锚点还会停留在原来子物体的中心上，导致无法实现单向拉伸的效果。
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image004.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image004.jpg)
 
  
 
@@ -174,7 +174,7 @@ public static void ResetCenterPosition()
 
 （8）  最终的Hirarchy面板下各个游戏对象的布置情况如下图：
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image006.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image006.jpg)
 
  
 
@@ -188,7 +188,7 @@ public static void ResetCenterPosition()
 
 （1）   初期正方体使用毛皮着色器、图片采用火焰着色器以及平面采用条纹着色器的效果：
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image008.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image008.jpg)
 
 <p align="center">【正视图的效果】</p>
 
@@ -200,7 +200,7 @@ public static void ResetCenterPosition()
 
  
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image010.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image010.jpg)
 
 <p align="center">【正视图效果】</p>
 
@@ -210,7 +210,7 @@ public static void ResetCenterPosition()
 
  
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image012.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image012.jpg)
 
 <p align="center">【设置旋转的效果】</p>
 
@@ -220,7 +220,7 @@ public static void ResetCenterPosition()
 
  
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image014.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image014.jpg)
 
 <p align="center">【设置单向伸长盒子并升高精灵的效果】</p>
 
@@ -236,7 +236,7 @@ public static void ResetCenterPosition()
 
  
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image018.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image018.jpg)
 
 ![img](/C:\Users\艾孜尔江\AppData\Local\Temp\msohtmlclip1\01\clip_image020.jpg)
 
@@ -244,19 +244,19 @@ public static void ResetCenterPosition()
 
  
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image022.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image022.jpg)
 
 <p align="center">【设置点击按钮开关勾选框后按钮失效】</p>
 
  
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image024.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image024.jpg)
 
 <p align="center">【设置点击放大按钮后仅放大头像精灵的效果】</p>
 
 
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image026.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image026.jpg)
 
 <p align="center">【设置点击缩小精灵头像后缩小的效果】</p>
 
@@ -264,7 +264,7 @@ public static void ResetCenterPosition()
 
  
 
-![img](https://github.com/Ezharjan/Unity_GUI/master/readme_imgs/clip_image028.jpg)
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image028.jpg)
 
 <p align="center">【点击激活开关按钮使开关消失的效果】</p>
 
