@@ -122,7 +122,7 @@ public void ButtonMagnify()
 
 （7）  通过把目标对象挂靠在一个空的GameObject中，再把目标对象的一角对应在空对象的中心点，就可把锚点设置在对应的那个目标对象的角，进行拉伸的时候，就可以完成单侧拉伸；
 
-<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image002.jpg)</p>
+![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image002.jpg)
 
  
 
