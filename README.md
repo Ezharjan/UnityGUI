@@ -122,13 +122,13 @@ public void ButtonMagnify()
 
 （7）  通过把目标对象挂靠在一个空的GameObject中，再把目标对象的一角对应在空对象的中心点，就可把锚点设置在对应的那个目标对象的角，进行拉伸的时候，就可以完成单侧拉伸；
 
-![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image002.jpg)
+<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image002.jpg)</p>
 
  
 
    但是这种方式有一个很大的坑——需要在该面板中修改父物体的Scale，直接在父物体上使用快捷键R后调整的Scale的中心锚点还会停留在原来子物体的中心上，导致无法实现单向拉伸的效果。
 
-![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image004.jpg)
+<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image004.jpg)</p>
 
  
 
@@ -174,21 +174,23 @@ public static void ResetCenterPosition()
 
 （8）  最终的Hirarchy面板下各个游戏对象的布置情况如下图：
 
-![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image006.jpg)
+
+
+<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image006.jpg)</p>
+
+
 
  
 
  
 
- 
-
-**5.** **运行结果**
+## 运行结果
 
 【运行程序并记录截图于下方。】
 
 （1）   初期正方体使用毛皮着色器、图片采用火焰着色器以及平面采用条纹着色器的效果：
 
-![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image008.jpg)
+<p align="center">![img](https://github.com/Ezharjan/Unity_GUI/blob/master/readme_imgs/clip_image008.jpg)</p>
 
 <p align="center">【正视图的效果】</p>
 
